@@ -4,6 +4,9 @@
  * This style is use in landing page.
  *
  */
+/*
+$color-brand-01:                  #0168fa;
+*/
 .home-slider {
   width: 100%;
   height: calc(100vh - 60px);
@@ -116,7 +119,7 @@
   right: 0;
   width: 200px;
   height: 200px;
-  background-color: #015de1;
+  background-color: #2d79ec;
   background-image: url("../img/home-bg.png");
   background-size: cover;
   border-radius: 20px;
@@ -155,7 +158,7 @@
     position: absolute;
     width: 400px;
     height: 100%;
-    background-color: rgba(1, 104, 250, 0.6);
+    background-color: rgba(68, 136, 238, 0.6);
     bottom: 0;
     right: -410px;
     border-radius: 10px; }

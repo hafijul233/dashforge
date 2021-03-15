@@ -4,6 +4,9 @@
  * This style is use in contacts page.
  *
  */
+/*
+$color-brand-01:                  #0168fa;
+*/
 @media (max-width: 991.98px) {
   .app-contact.contact-content-show .contact-navleft,
   .app-contact.contact-content-show .contact-sidebar {
@@ -94,9 +97,9 @@
     .contact-navleft .nav-link:hover, .contact-navleft .nav-link:focus {
       color: #1b2e4b; }
     .contact-navleft .nav-link.active {
-      color: #0168fa; }
+      color: #4488ee; }
       .contact-navleft .nav-link.active svg {
-        fill: rgba(1, 104, 250, 0.2); }
+        fill: rgba(68, 136, 238, 0.2); }
     .contact-navleft .nav-link + .nav-link {
       margin-top: 10px; }
     .contact-navleft .nav-link svg {
@@ -280,7 +283,7 @@
     .contact-content-header .nav-link:hover, .contact-content-header .nav-link:focus {
       color: #525f70; }
     .contact-content-header .nav-link.active {
-      color: #0168fa;
+      color: #4488ee;
       font-weight: 600;
       position: relative; }
       .contact-content-header .nav-link.active::before {
@@ -289,7 +292,7 @@
         bottom: -19px;
         left: 0;
         width: 100%;
-        border-bottom: 1px solid #0168fa; }
+        border-bottom: 1px solid #4488ee; }
     .contact-content-header .nav-link + .nav-link {
       margin-left: 30px; }
     .contact-content-header .nav-link span {
@@ -372,9 +375,9 @@
       .contact-call-nav a.nav-video:hover, .contact-call-nav a.nav-video:focus {
         background-color: #be005c; }
     .contact-call-nav a.nav-msg {
-      background-color: #0168fa; }
+      background-color: #4488ee; }
       .contact-call-nav a.nav-msg:hover, .contact-call-nav a.nav-msg:focus {
-        background-color: #0153c7; }
+        background-color: #156aea; }
 
 .contact-actions {
   display: flex;
@@ -385,7 +388,7 @@
     align-items: flex-end;
     color: #1b2e4b; }
     .contact-actions a:hover, .contact-actions a:focus {
-      color: #0168fa; }
+      color: #4488ee; }
     .contact-actions a svg {
       width: 16px;
       stroke-width: 2.6px;
@@ -399,7 +402,7 @@
   align-items: center;
   padding: 0; }
   .contact-content-nav .nav-link:hover, .contact-content-nav .nav-link:focus {
-    color: #0168fa; }
+    color: #4488ee; }
   .contact-content-nav .nav-link + .nav-link {
     margin-top: 10px; }
 

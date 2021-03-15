@@ -4,6 +4,9 @@
  * This style is use for chat page.
  *
  */
+/*
+$color-brand-01:                  #0168fa;
+*/
 @media (max-width: 991.98px) {
   .app-chat.chat-content-show .chat-navleft,
   .app-chat.chat-content-show .chat-sidebar {
@@ -76,9 +79,9 @@
     .chat-navleft .nav-link:hover, .chat-navleft .nav-link:focus {
       color: #1b2e4b; }
     .chat-navleft .nav-link.active {
-      color: #0168fa; }
+      color: #4488ee; }
       .chat-navleft .nav-link.active svg {
-        fill: rgba(1, 104, 250, 0.2); }
+        fill: rgba(68, 136, 238, 0.2); }
     .chat-navleft .nav-link + .nav-link {
       margin-top: 10px; }
   .chat-navleft svg {
@@ -197,7 +200,7 @@
     background-color: #f5f6fa; }
   @media (min-width: 992px) {
     .nav-chat .nav-link.active {
-      color: #0168fa;
+      color: #4488ee;
       background-color: #eef0f7; } }
   .nav-chat .nav-link + .nav-link {
     margin-top: 2px; }

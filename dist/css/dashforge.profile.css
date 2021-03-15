@@ -4,6 +4,9 @@
  * This style is use in profile page, connections, groups, events and timeline.
  *
  */
+/*
+$color-brand-01:                  #0168fa;
+*/
 .page-profile {
   color: #1b2e4b; }
 
@@ -51,7 +54,7 @@
     .profile-info-list a {
       transition: none; } }
   .profile-info-list a:hover, .profile-info-list a:focus {
-    color: #0168fa; }
+    color: #4488ee; }
 
 .profile-info-list svg {
   width: 18px;
@@ -194,7 +197,7 @@
     background-color: #fff;
     width: 11px;
     height: 11px;
-    border: 2px solid #0168fa;
+    border: 2px solid #4488ee;
     border-radius: 100%; }
   .timeline-body h6 {
     line-height: 1.5; }

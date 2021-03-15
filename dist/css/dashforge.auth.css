@@ -4,6 +4,9 @@
  * This style is use in auth pages.
  *
  */
+/*
+$color-brand-01:                  #0168fa;
+*/
 .content-auth {
   min-height: calc(100vh - 106px);
   display: flex;

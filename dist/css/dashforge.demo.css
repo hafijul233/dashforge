@@ -4,6 +4,9 @@
  * This style is use for demo purpose only.
  *
  */
+/*
+$color-brand-01:                  #0168fa;
+*/
 .content-components {
   font-size: 16px;
   padding: 20px;
@@ -55,7 +58,7 @@
         .df-breadcrumbs .breadcrumb-item a {
           transition: none; } }
     .df-breadcrumbs .breadcrumb-item.active {
-      color: #0168fa; }
+      color: #4488ee; }
     .df-breadcrumbs .breadcrumb-item + .breadcrumb-item {
       padding-left: 8px; }
       .df-breadcrumbs .breadcrumb-item + .breadcrumb-item::before {
@@ -155,11 +158,11 @@
     white-space: nowrap;
     font-size: 13px; }
     .section-nav .nav-link:hover {
-      color: #0168fa; }
+      color: #4488ee; }
     .section-nav .nav-link + .nav-link {
       margin-top: 5px; }
     .section-nav .nav-link.active {
-      color: #0168fa;
+      color: #4488ee;
       font-weight: 500;
       letter-spacing: -.12px; }
       .section-nav .nav-link.active::after {
@@ -168,7 +171,7 @@
         top: 50%;
         right: -31px;
         margin-top: -.5px;
-        background-color: #0168fa;
+        background-color: #4488ee;
         height: 1px;
         width: 30px; }
 
@@ -314,7 +317,7 @@
     .demo-animate-list .nav-link + .nav-link {
       margin-top: 1px; }
     .demo-animate-list .nav-link.active {
-      background-color: #0168fa;
+      background-color: #4488ee;
       color: #fff; }
 
 .demo-animate-item {

@@ -4,6 +4,9 @@
  * This style is use in mail page.
  *
  */
+/*
+$color-brand-01:                  #0168fa;
+*/
 .app-mail.mail-sidebar-show .mail-wrapper {
   transform: translateX(0); }
 
@@ -126,11 +129,11 @@
       .mail-group-body .media {
         transition: none; } }
     .mail-group-body .media:hover, .mail-group-body .media:focus {
-      background-color: #f3f8ff; }
+      background-color: white; }
     .mail-group-body .media.unread, .mail-group-body .media.unread:hover, .mail-group-body .media.unread:focus {
       background-color: #fff; }
     .mail-group-body .media.selected, .mail-group-body .media.selected:hover, .mail-group-body .media.selected:focus {
-      background-color: #ecf4ff; }
+      background-color: white; }
     .mail-group-body .media + .media {
       margin-top: -1px;
       border-top: 1px solid #e5e9f2; }

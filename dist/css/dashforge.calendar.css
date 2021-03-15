@@ -4,6 +4,9 @@
  * This style is use for calendar page.
  *
  */
+/*
+$color-brand-01:                  #0168fa;
+*/
 @media (max-width: 374px) {
   .app-calendar.calendar-sidebar-show .calendar-content {
     display: none; } }
@@ -115,9 +118,9 @@
         border-radius: 100%;
         display: none; }
     .calendar-nav a.calendar span {
-      border-color: #0168fa; }
+      border-color: #4488ee; }
       .calendar-nav a.calendar span::before {
-        background-color: #0168fa; }
+        background-color: #4488ee; }
     .calendar-nav a.birthday span {
       border-color: #10b759; }
       .calendar-nav a.birthday span::before {
@@ -211,7 +214,7 @@
       content: '0'; }
     .calendar-inline .ui-datepicker .ui-datepicker-calendar .ui-datepicker-today a, .calendar-inline .ui-datepicker .ui-datepicker-calendar .ui-datepicker-today a:hover, .calendar-inline .ui-datepicker .ui-datepicker-calendar .ui-datepicker-today a:focus {
       background-color: transparent;
-      color: #0168fa;
+      color: #4488ee;
       font-weight: 500; }
 
 .schedule-item {
@@ -223,7 +226,7 @@
     .schedule-item {
       transition: none; } }
   .schedule-item:hover, .schedule-item:focus {
-    color: #0168fa; }
+    color: #4488ee; }
   .schedule-item h6 {
     margin-bottom: 3px; }
   .schedule-item span {
@@ -430,7 +433,7 @@
   .calendar-content-body td.fc-today {
     background-color: rgba(244, 245, 248, 0.7); }
     .calendar-content-body td.fc-today .fc-day-number, .calendar-content-body td.fc-today .fc-day-number:hover, .calendar-content-body td.fc-today .fc-day-number:focus {
-      background-color: #0168fa;
+      background-color: #4488ee;
       color: #fff;
       border-radius: 1px; }
 
@@ -532,7 +535,7 @@
         font-size: 25px; } }
 
 .calendar-content-body .fc-agenda-view .fc-day-header.fc-today > a {
-  color: #0168fa; }
+  color: #4488ee; }
 
 .calendar-content-body .fc-listMonth-view,
 .calendar-content-body .fc-listWeek-view {
@@ -613,10 +616,10 @@
           font-size: 36px; } }
     .calendar-content-body .fc-listMonth-view .fc-list-heading-main.now,
     .calendar-content-body .fc-listWeek-view .fc-list-heading-main.now {
-      color: #0168fa; }
+      color: #4488ee; }
       .calendar-content-body .fc-listMonth-view .fc-list-heading-main.now span:last-child,
       .calendar-content-body .fc-listWeek-view .fc-list-heading-main.now span:last-child {
-        color: #0168fa; }
+        color: #4488ee; }
   .calendar-content-body .fc-listMonth-view .fc-list-item,
   .calendar-content-body .fc-listWeek-view .fc-list-item {
     flex: 0 0 calc(80% - 5px);
