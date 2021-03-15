@@ -1,13 +1,16 @@
+/*
+$color-brand-01:                  #0168fa;
+*/
 body {
-  background-color: rgba(26, 108, 225, 0.03); }
+  background-color: rgba(88, 140, 218, 0.03); }
 
 .navbar-header {
-  border-bottom-color: #e5eefc;
-  box-shadow: 0 0 25px rgba(26, 108, 225, 0.1); }
+  border-bottom-color: white;
+  box-shadow: 0 0 25px rgba(88, 140, 218, 0.1); }
   .navbar-header .navbar-right .dropdown-menu {
-    border-color: #e5eefc;
+    border-color: white;
     border-top-color: transparent;
-    box-shadow: 0 15px 15px rgba(26, 108, 225, 0.1); }
+    box-shadow: 0 15px 15px rgba(88, 140, 218, 0.1); }
   .navbar-header .navbar-right .dropdown-notification .dropdown-menu,
   .navbar-header .navbar-right .dropdown-message .dropdown-menu {
     margin-top: 18.5px; }
@@ -23,9 +26,9 @@ body {
 @media (min-width: 992px) {
   .navbar-menu-sub {
     padding-top: 10px;
-    border-color: #e5eefc;
+    border-color: white;
     border-top-color: transparent;
-    box-shadow: 0 15px 15px rgba(26, 108, 225, 0.1); } }
+    box-shadow: 0 15px 15px rgba(88, 140, 218, 0.1); } }
 
 .navbar-menu-sub::before {
   opacity: 0; }
@@ -36,7 +39,7 @@ body {
 
 .card {
   border-color: transparent;
-  box-shadow: 0 0 25px rgba(26, 108, 225, 0.1); }
+  box-shadow: 0 0 25px rgba(88, 140, 218, 0.1); }
 
 .card-header,
 .card-footer,
@@ -44,8 +47,8 @@ body {
 .table tr th,
 .table tr td,
 .bd {
-  border-color: #e9f1fc; }
+  border-color: white; }
 
 .footer {
   border-top-color: transparent;
-  box-shadow: 0 0 25px rgba(26, 108, 225, 0.1); }
+  box-shadow: 0 0 25px rgba(88, 140, 218, 0.1); }

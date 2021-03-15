@@ -1,7 +1,10 @@
+/*
+$color-brand-01:                  #0168fa;
+*/
 .navbar-header {
   border-bottom-color: transparent;
   background-color: transparent;
-  background-image: linear-gradient(to right, #015de1 0, #560bdf 75%);
+  background-image: linear-gradient(to right, #2d79ec 0, #560bdf 75%);
   background-repeat: repeat-x; }
   .navbar-header .df-logo, .navbar-header .df-logo:hover, .navbar-header .df-logo:focus {
     color: #fff;
@@ -13,7 +16,7 @@
     .navbar-header .burger-menu:hover, .navbar-header .burger-menu:focus {
       color: #fff; }
   .navbar-header .navbar-menu-header {
-    background-image: linear-gradient(to right, #015de1 0, #560bdf 75%);
+    background-image: linear-gradient(to right, #2d79ec 0, #560bdf 75%);
     background-repeat: repeat-x; }
     .navbar-header .navbar-menu-header a:last-child {
       color: rgba(255, 255, 255, 0.5); }
@@ -64,7 +67,7 @@
     .navbar-header .btn-social:hover, .navbar-header .btn-social:focus {
       color: #fff; }
   .navbar-header .btn-buy {
-    background-color: #0168fa;
+    background-color: #4488ee;
     color: #fff; }
 
 .aside.minimize .nav-aside .nav-label + .nav-item::before {
@@ -90,7 +93,7 @@
 
 .aside-body {
   border-top-width: 0;
-  background-image: linear-gradient(to bottom, #560bdf 20%, #015de1 100%);
+  background-image: linear-gradient(to bottom, #560bdf 20%, #2d79ec 100%);
   background-repeat: repeat-x; }
 
 .aside-loggedin-user h6 {
@@ -141,7 +144,7 @@
   color: #fff; }
 
 .nav-aside .nav-item.with-sub ul a {
-  color: rgba(200, 223, 255, 0.8); }
+  color: rgba(255, 255, 255, 0.8); }
   .nav-aside .nav-item.with-sub ul a:hover, .nav-aside .nav-item.with-sub ul a:focus {
     color: #fff; }
 
@@ -156,7 +159,7 @@
 @media (max-width: 991.98px) {
   .content-header {
     background-color: #560bdf;
-    background-image: linear-gradient(to right, #560bdf 20%, #015de1 100%);
+    background-image: linear-gradient(to right, #560bdf 20%, #2d79ec 100%);
     background-repeat: repeat-x;
     border-bottom-width: 0; }
     .content-header .nav-link {

@@ -1,3 +1,6 @@
+/*
+$color-brand-01:                  #0168fa;
+*/
 body {
   background-color: #141c2b; }
 
@@ -101,7 +104,7 @@ body {
 .dropdown-message .dropdown-footer a:hover, .dropdown-message .dropdown-footer a:focus,
 .dropdown-notification .dropdown-footer a:hover,
 .dropdown-notification .dropdown-footer a:focus {
-  color: #0168fa; }
+  color: #4488ee; }
 
 .dropdown-profile .dropdown-link:hover .avatar img, .dropdown-profile .dropdown-link:focus .avatar img {
   background-color: #3b4863; }
@@ -139,7 +142,7 @@ body {
     color: #97a3b9;
     border-color: #596882; }
     .navbar-search-body a:hover, .navbar-search-body a:focus {
-      background-color: #0168fa;
+      background-color: #4488ee;
       color: #fff;
       border-color: transparent; }
 
@@ -179,7 +182,7 @@ body {
     color: #fff; }
 
 .nav-aside .nav-item.active .nav-link:hover svg, .nav-aside .nav-item.active .nav-link:focus svg {
-  color: #0168fa; }
+  color: #4488ee; }
 
 .nav-aside .with-sub.show:not(.active) .nav-link {
   color: #fff; }
@@ -313,7 +316,7 @@ h1, h2, h3, h4, h5, h6,
   border-color: #00b8d4; }
 
 .bd-primary {
-  border-color: #0168fa; }
+  border-color: #4488ee; }
 
 .bd-success {
   border-color: #10b759; }
@@ -504,7 +507,7 @@ h1, h2, h3, h4, h5, h6,
     color: #fff; }
   .nav-chat .nav-link.active {
     background-color: #1f2c43;
-    color: #0168fa; }
+    color: #4488ee; }
 
 .chat-msg-list .media:hover, .chat-msg-list .media:focus {
   background-color: #1c273c; }
@@ -540,7 +543,7 @@ h1, h2, h3, h4, h5, h6,
     .chat-content-header nav a:hover, .chat-content-header nav a:focus {
       color: #fff; }
     .chat-content-header nav a.active {
-      color: #0168fa; }
+      color: #4488ee; }
   .chat-content-header .search-form .form-control,
   .chat-content-header .search-form .btn {
     border-color: rgba(255, 255, 255, 0.08); }
@@ -636,7 +639,7 @@ h1, h2, h3, h4, h5, h6,
   .contact-content-body .nav-social .nav-link {
     color: #cdd4e0; }
     .contact-content-body .nav-social .nav-link:hover, .contact-content-body .nav-social .nav-link:focus {
-      color: #0168fa; }
+      color: #4488ee; }
 
 .contact-content-sidebar {
   background-color: #172032;
@@ -645,7 +648,7 @@ h1, h2, h3, h4, h5, h6,
 .contact-content-nav .nav-link {
   color: #fff; }
   .contact-content-nav .nav-link:hover, .contact-content-nav .nav-link:focus {
-    color: #0168fa; }
+    color: #4488ee; }
 
 .filemgr-sidebar {
   background-color: #141c2b; }
